@@ -1,1 +1,1 @@
-sample whatapp appications
+sample whatapps appications
